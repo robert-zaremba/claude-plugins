@@ -1,0 +1,8 @@
+{
+	"name": "vuejs-nuxt-bun",
+	"version": "1.0.0",
+	"description": "TypeScript LSP with Vue.js support for Bun (instead of Node+npm). Includes Vue.js, Nuxt and Nuxt UI skills . Handles .vue, .ts, .tsx, .js, .jsx, .mts, .cts, .mjs, .cjs files. Use this instead of a separate TypeScript LSP for Vue projects.",
+	"author": {
+		"name": "Robert Zaremba"
+	}
+}
