@@ -30,6 +30,10 @@ A plugin providing TypeScript LSP with Vue.js support for Bun (instead of Node+n
 - (Optional) Nuxt 3.x for Nuxt-specific features
 - (Optional) Nuxt UI for UI component guidance
 
+## Example config
+
+- [sample opencode.json](./opencode.json)
+
 ## Credits
 
 Some skills inherited from [onmax/nuxt-skills](https://github.com/onmax/nuxt-skills)

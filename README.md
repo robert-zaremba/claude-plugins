@@ -2,9 +2,9 @@
 
 A collection of plugins for
 
-- [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 - [OpenCode](https://opencode.ai/)
 - [Kilo](https://github.com/Kilo-Org/kilocode/)
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code)
 
 ## Available Plugins
 
